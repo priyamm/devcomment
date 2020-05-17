@@ -1,6 +1,8 @@
 # devcomment
 A Collection of comments added by Developers worth to be noticed.
 
+Submit a PR for any witty comment you came across.
+
 ---
 ```
 // When I wrote this, only God and I understood what I was doing
